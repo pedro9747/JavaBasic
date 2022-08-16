@@ -36,5 +36,6 @@ public class Ejercicio {
         System.out.println("Variable char: " + variable9);
         System.out.println("Variable String: " + variable10);
 
+
     }
 }
